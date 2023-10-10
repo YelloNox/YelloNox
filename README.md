@@ -20,4 +20,4 @@ Welcome to my GitHub profile! I'm Alec Murphy, a technology enthusiast with a wi
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alecmurp)
-- [My Webpage](https://www.yello.page/)
+- [My Homepage](https://www.yello.page/)
