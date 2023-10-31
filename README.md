@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm a technology enthusiast and a wannabe cybersec
 ## Projects
 - **Homelab**
   - *Jul 2023 - Present*
+- **Secret**
+  - *Oct 2023 - Present*
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/alecmurp)
