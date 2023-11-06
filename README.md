@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @YelloNolo
   
-Welcome to my GitHub profile! I'm a technology enthusiast and a wannabe cybersecurity expert. Also I am an expert in the ways of coffee, so you know. 
+Welcome to my GitHub profile! I'm a technology enthusiast and a wannabe cybersecurity expert. Also, I am an expert in the ways of coffee! Yeah, I cool like that :)
 
 ## Projects
 - **Homelab**
