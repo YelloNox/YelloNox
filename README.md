@@ -9,6 +9,5 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
   - *Oct 2023 - Present*
 
 ## Connect with Me
-- [Email](mailto:admin@yello.page)
-- [LinkedIn](https://www.linkedin.com/in/alecmurp)
 - [Homepage](https://www.yello.page/)
+- [LinkedIn](https://www.linkedin.com/in/alecmurp)
