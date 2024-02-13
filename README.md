@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
 ## ☝️ Updates
 
 - **Name Update**
-  - "YelloNolo" -> "YelloNox"
-  - TOOK FOREVER 🥲
+  - "[YelloNolo](yellonolo.md)" -> "[YelloNox](yellonox.md)"
+  - Updating past repos took forever 🥲
 - **School - Western Governors University**
   - *Feb 2024 - Present*
   - B.S. in Computer Science, Cybersecurity
@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
   - *Jul 2023 - Present*
 - **Secret**
   - *Oct 2023 - Present*
+  - May or may not be stalled indefinitely.
 
 ## 📧 Connect with Me
 - [Homepage](https://www.yello.page/)
