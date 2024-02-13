@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
 
 ## ☝️ Updates
 
+- **Name Update**
+  - "YelloNolo" -> "YelloNox"
+  - TOOK FOREVER 🥲
 - **School - Western Governors University**
   - *Feb 2024 - Present*
   - B.S. in Computer Science, Cybersecurity
