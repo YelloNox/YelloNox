@@ -14,7 +14,8 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
 ## 🛠️ Projects
 - **Homelab**
   - *Jul 2023 - Present*
-- **Secret**
+  - NEED MORE DISKS 💀
+- **PSY Paper (Python Included)**
   - *Oct 2023 - Present*
   - May or may not be stalled indefinitely.
 
