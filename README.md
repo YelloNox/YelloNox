@@ -21,5 +21,4 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
 
 ## 📧 Connect with Me
 - [Homepage](https://yellonox.com/)
-- [Email](mailto:amurphy@yello.page?subject=From%20GitHub)
-- [LinkedIn](https://www.linkedin.com/in/alecmurp)
+- [Email](mailto:ynox@yellonox.com?subject=From%20GitHub)
