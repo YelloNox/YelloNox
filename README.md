@@ -20,6 +20,6 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
   - May or may not be stalled indefinitely.
 
 ## 📧 Connect with Me
-- [Homepage](https://www.yello.page/)
+- [Homepage](https://yellonox.com/)
 - [Email](mailto:amurphy@yello.page?subject=From%20GitHub)
 - [LinkedIn](https://www.linkedin.com/in/alecmurp)
