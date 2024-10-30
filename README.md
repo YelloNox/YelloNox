@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @YelloNox
   
-Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybersecurity expert. I'm also an expert in the ways of coffee! Yeah, I'm cool like that 😎
+Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring Cybersecurity-Network-IT expert. I'm also an expert in the ways of coffee! Yeah, I'm cool like that 😎
 
 ## ☝️ Updates
 
@@ -10,14 +10,16 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring cybers
 - **School - Western Governors University**
   - *Feb 2024 - Present*
   - B.S. in Computer Science, Cybersecurity
+  - Certifications: A+, Net+ (Currently Progressing)
 
 ## 🛠️ Projects
 - **Homelab**
   - *Jul 2023 - Present*
   - ~NEED MORE DISKS 💀~ Got more disks👏
-- **PSY Paper (Python Included)**
-  - *Oct 2023 - Present*
-  - May or may not be stalled indefinitely.
+  - GOT MOREEEEEEEEEEEEE DISKS!!! Time to add redundancy to EVERYTHING!!! 💪
+- **PSY Paper on some computer thing**
+  - *Oct 2023 - Someday*
+  - May or may not be stalled indefinitely... Dead project... Leaving here to look cool.
 
 ## 📧 Connect with Me
 - [Homepage](https://yellonox.com/)
