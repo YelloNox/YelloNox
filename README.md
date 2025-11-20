@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a technology enthusiast and an aspiring Cybers
   - *Jul 2023 - Present*
   - ~NEED MORE DISKS 💀~ Got more disks👏
   - GOT MOREEEEEEEEEEEEE DISKS!!! Time to add redundancy to EVERYTHING!!!
-- **PSY Paper on some computer thing**
-  - *Oct 2023 - Someday*
-  - May or may not be stalled indefinitely... Dead project... Leaving here to look cool.
 
 ## 📧 Connect with Me
 - [Homepage](https://yellonox.com/) - Constructing
